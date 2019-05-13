@@ -28,7 +28,7 @@
   "dependencies": {
     "debug": "^3.2.6",
     "generic-pool": "^3.6.1",
-    "tedious": "^4.2.0"
+    "tedious": "https://github.com/kuldeep-argusoft/tedious/tarball/9167455256cde444e53eadabdb9c0871963f341c"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
